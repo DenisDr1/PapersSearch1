@@ -1,4 +1,4 @@
-# PapersSearch1
+# PapersSearch
 
 **PapersSearch** is a web application for searching papers by abstracts. The project allows the user to quickly and accurately search for relevant scientific papers for a given query.
 
